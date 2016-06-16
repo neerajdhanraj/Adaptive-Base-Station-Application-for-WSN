@@ -1,0 +1,50 @@
+C:\Users\AMIT\Documents\Visual Studio 2005\Projects\6410_full_try\6410_full_try\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\AMIT\Documents\Visual Studio 2005\Projects\6410_full_try\6410_full_try\obj\Debug\_410_full_try.Form1.resources
+C:\Users\AMIT\Documents\Visual Studio 2005\Projects\6410_full_try\6410_full_try\obj\Debug\_410_full_try.Properties.Resources.resources
+C:\Users\AMIT\Documents\Visual Studio 2005\Projects\6410_full_try\6410_full_try\obj\Debug\6410_full_try.csproj.GenerateResource.Cache
+C:\Users\AMIT\Documents\Visual Studio 2005\Projects\6410_full_try\6410_full_try\bin\Debug\6410_full_try.exe
+C:\Users\AMIT\Documents\Visual Studio 2005\Projects\6410_full_try\6410_full_try\bin\Debug\6410_full_try.pdb
+C:\Users\AMIT\Documents\Visual Studio 2005\Projects\6410_full_try\6410_full_try\obj\Debug\6410_full_try.exe
+C:\Users\AMIT\Documents\Visual Studio 2005\Projects\6410_full_try\6410_full_try\obj\Debug\6410_full_try.pdb
+C:\Users\AMIT\Documents\Visual Studio 2005\Projects\6410_full_try\6410_full_try\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\AMIT\Documents\Visual Studio 2005\Projects\6410_full_try\6410_full_try\bin\Debug\office.dll
+C:\Users\AMIT\Documents\Visual Studio 2005\Projects\6410_full_try\6410_full_try\bin\Debug\System.Data.OracleClient.dll
+C:\Users\AMIT\Documents\Visual Studio 2005\Projects\6410_full_try\6410_full_try\bin\Debug\System.Transactions.dll
+C:\Users\AMIT\Documents\Visual Studio 2005\Projects\6410_full_try\6410_full_try\bin\Debug\System.EnterpriseServices.dll
+C:\Users\AMIT\Documents\Visual Studio 2005\Projects\6410_full_try\6410_full_try\bin\Debug\System.Web.dll
+C:\Users\AMIT\Documents\Visual Studio 2005\Projects\6410_full_try\6410_full_try\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\AMIT\Documents\Visual Studio 2005\Projects\6410_full_try\6410_full_try\bin\Debug\System.EnterpriseServices.Wrapper.dll
+C:\Users\AMIT\Documents\Visual Studio 2005\Projects\6410_full_try - Copy (3)\6410_full_try\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\AMIT\Documents\Visual Studio 2005\Projects\6410_full_try - Copy (3)\6410_full_try\obj\Debug\_410_full_try.Form1.resources
+C:\Users\AMIT\Documents\Visual Studio 2005\Projects\6410_full_try - Copy (3)\6410_full_try\obj\Debug\_410_full_try.Properties.Resources.resources
+C:\Users\AMIT\Documents\Visual Studio 2005\Projects\6410_full_try - Copy (3)\6410_full_try\obj\Debug\6410_full_try.csproj.GenerateResource.Cache
+C:\Users\AMIT\Documents\Visual Studio 2005\Projects\6410_full_try - Copy (3)\6410_full_try\obj\Debug\6410_full_try.exe
+C:\Users\AMIT\Documents\Visual Studio 2005\Projects\6410_full_try - Copy (3)\6410_full_try\obj\Debug\6410_full_try.pdb
+C:\Users\AMIT\Documents\Visual Studio 2005\Projects\6410_full_try - Copy (3)\6410_full_try\bin\Debug\6410_full_try.exe
+C:\Users\AMIT\Documents\Visual Studio 2005\Projects\6410_full_try - Copy (3)\6410_full_try\bin\Debug\6410_full_try.pdb
+C:\Users\AMIT\Documents\Visual Studio 2005\Projects\6410_full_try - Copy (3)\6410_full_try\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\AMIT\Documents\Visual Studio 2005\Projects\6410_full_try - Copy (3)\6410_full_try\bin\Debug\office.dll
+C:\Users\AMIT\Documents\Visual Studio 2005\Projects\6410_full_try - Copy (3)\6410_full_try\bin\Debug\System.Data.OracleClient.dll
+C:\Users\AMIT\Documents\Visual Studio 2005\Projects\6410_full_try - Copy (3)\6410_full_try\bin\Debug\System.Transactions.dll
+C:\Users\AMIT\Documents\Visual Studio 2005\Projects\6410_full_try - Copy (3)\6410_full_try\bin\Debug\System.EnterpriseServices.dll
+C:\Users\AMIT\Documents\Visual Studio 2005\Projects\6410_full_try - Copy (3)\6410_full_try\bin\Debug\System.Web.dll
+C:\Users\AMIT\Documents\Visual Studio 2005\Projects\6410_full_try - Copy (3)\6410_full_try\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\AMIT\Documents\Visual Studio 2005\Projects\6410_full_try - Copy (3)\6410_full_try\bin\Debug\System.EnterpriseServices.Wrapper.dll
+C:\Users\AMIT\Documents\Visual Studio 2005\Projects\6410_full_try - Copy (3) - Copy\6410_full_try\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\AMIT\Documents\Visual Studio 2005\Projects\6410_full_try - Copy (3) - Copy\6410_full_try\obj\Debug\_410_full_try.Form1.resources
+C:\Users\AMIT\Documents\Visual Studio 2005\Projects\6410_full_try - Copy (3) - Copy\6410_full_try\obj\Debug\_410_full_try.Form2.resources
+C:\Users\AMIT\Documents\Visual Studio 2005\Projects\6410_full_try - Copy (3) - Copy\6410_full_try\obj\Debug\_410_full_try.Properties.Resources.resources
+C:\Users\AMIT\Documents\Visual Studio 2005\Projects\6410_full_try - Copy (3) - Copy\6410_full_try\obj\Debug\6410_full_try.csproj.GenerateResource.Cache
+C:\Users\AMIT\Documents\Visual Studio 2005\Projects\6410_full_try - Copy (3) - Copy\6410_full_try\obj\Debug\6410_full_try.exe
+C:\Users\AMIT\Documents\Visual Studio 2005\Projects\6410_full_try - Copy (3) - Copy\6410_full_try\bin\Debug\6410_full_try.exe
+C:\Users\AMIT\Documents\Visual Studio 2005\Projects\6410_full_try - Copy (3) - Copy\6410_full_try\bin\Debug\6410_full_try.pdb
+C:\Users\AMIT\Documents\Visual Studio 2005\Projects\6410_full_try - Copy (3) - Copy\6410_full_try\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\AMIT\Documents\Visual Studio 2005\Projects\6410_full_try - Copy (3) - Copy\6410_full_try\bin\Debug\office.dll
+C:\Users\AMIT\Documents\Visual Studio 2005\Projects\6410_full_try - Copy (3) - Copy\6410_full_try\bin\Debug\System.Data.OracleClient.dll
+C:\Users\AMIT\Documents\Visual Studio 2005\Projects\6410_full_try - Copy (3) - Copy\6410_full_try\bin\Debug\System.Transactions.dll
+C:\Users\AMIT\Documents\Visual Studio 2005\Projects\6410_full_try - Copy (3) - Copy\6410_full_try\bin\Debug\System.EnterpriseServices.dll
+C:\Users\AMIT\Documents\Visual Studio 2005\Projects\6410_full_try - Copy (3) - Copy\6410_full_try\bin\Debug\System.Web.dll
+C:\Users\AMIT\Documents\Visual Studio 2005\Projects\6410_full_try - Copy (3) - Copy\6410_full_try\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\AMIT\Documents\Visual Studio 2005\Projects\6410_full_try - Copy (3) - Copy\6410_full_try\bin\Debug\System.EnterpriseServices.Wrapper.dll
+C:\Users\AMIT\Documents\Visual Studio 2005\Projects\6410_full_try - Copy (3) - Copy\6410_full_try\obj\Debug\6410_full_try.pdb
+C:\Users\AMIT\Documents\Visual Studio 2005\Projects\6410_full_try - Copy (3) - Copy\6410_full_try\obj\Debug\_410_full_try.Form3.resources
